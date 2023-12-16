@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Javascript",
+        "value": "js"
+    },
+    {
+        "id": 2,
+        "title": "React Js",
+        "value": "react"
+    },
+    {
+        "id": 3,
+        "title": "Python",
+        "value": "python"
+    },
+    {
+        "id": 4,
+        "title": "Django",
+        "value": "django"
+    },
+    {
+        "id": 5,
+        "title": "Wordpress",
+        "value": "wordpress"
+    }
+]

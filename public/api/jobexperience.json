@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Développeur Frontend Freelance",
+        "meta": "Prisma Media",
+        "text": "Pôle Performance et Monétisation",
+        "year": "2023 - Present"
+    },
+    {
+        "id": 2,
+        "title": "Frontend engineer",
+        "meta": "OpenClassrooms",
+        "text": "Création et intégration de nouvelle fonctionnalité • Développement javascript • Création de composant graphique • Contribution et mise à jour du Design System • Rédaction d'analyse technique • Correction d'anomalies",
+        "year": "2016 - 2023"
+    },
+    {
+        "id": 3,
+        "title": "Développeur Intégrateur Frontend",
+        "meta": "ENGIE",
+        "text": "Création et intégration de page HTML5 / CSS3 • Développement javascript • Responsive Design • Correction d'anomalies",
+        "year": "2016"
+    },
+    {
+        "id": 4,
+        "title": "Développeur Intégrateur Frontend",
+        "meta": "ISOBAR",
+        "text": "Création et intégration de page HTML5 / CCS3 • Développement javascript • Responsive Design et Adaptative Design • Correction d'anomalies",
+        "year": "2015 -2016"
+    },
+    {
+        "id": 5,
+        "title": "Développeur Intégrateur Frontend",
+        "meta": "Abstract",
+        "text": "Création et intégration de page HTML5 / CCS3 • Développement javascript • Responsive Design et Adaptative Design • Correction d'anomalies",
+        "year": "2015"
+    },
+    {
+        "id": 6,
+        "title": "Développeur Intégrateur Frontend",
+        "meta": "Pages Jaunes",
+        "text": "Création et intégration de page HTML5 / CCS3 à partir de maquette Axure • Responsive Design • Création de composant graphique et mise en place d'une charte • Correction d'anomalies",
+        "year": "2015"
+    },
+    {
+        "id": 7,
+        "title": "Webmaster - Chef de projet Internet et Intranet",
+        "meta": "Ministère des affaires sociales et de la santé",
+        "text": "Gestion de projet • Mise en ligne de contenu • Création de composants graphique • Intégration HTML5/CSS3",
+        "year": "2014-2015"
+    },
+    {
+        "id": 8,
+        "title": "Développeur Intégrateur Frontend",
+        "meta": "Current Productions",
+        "text": "Création de composant graphique • Intégration d'un player vidéo en HTM5/CSS3 • Responsive Design • Correction d'anomalies",
+        "year": "2013 - 2014"
+    },
+    {
+        "id": 9,
+        "title": "Développeur Intégrateur Frontend",
+        "meta": "OpenClassrooms",
+        "text": "Création de pages événementielle • Participation à la refonte graphique du site/Rebranding • Refonte graphique des emails • Correction d'anomalies",
+        "year": "2013"
+    },
+    {
+        "id": 10,
+        "title": "Développeur Frontend",
+        "meta": "ING Direct France",
+        "text": "Développement Javascript, Prototype, Scriptaculous et jQuery • Intégration HTML, JSF et JSP / CSS 2 et 3 • Mise en place de template email • Optimisation du référencement naturel • Correction d'anomalies • Gestion du planning de l'équipe IHM et gestion des mises en production",
+        "year": "2011 - 2013"
+    },
+    {
+        "id": 11,
+        "title": "Webmaster",
+        "meta": "Informatis T.S.",
+        "text": "Développement Javascript• Création d’éléments graphiques, découpage et intégration cross-browser • Optimisation du référencement naturel • Vérification normes W3C • Développement back-office PHP/MySQL • Maintenance de site Internet • Dépannage informatique",
+        "year": "2011"
+    },
+    {
+        "id": 12,
+        "title": "Apprentis Concepteur Intégrateur Web et Multimédia",
+        "meta": "OpenClassrooms",
+        "text": "Création de pages événementielle • Participation à la refonte graphique du site/Rebranding • Refonte graphique des emails • Correction d'anomalies",
+        "year": "2009 - 2010"
+    }
+]

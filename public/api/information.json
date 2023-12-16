@@ -1,0 +1,28 @@
+{
+    "firstName": "Grégory",
+    "lastName": "Lama",
+    "fullName": "Grégory Lama",
+    "thumbImage": "/images/formal-image.png",
+    "largeImage": "/images/about-image.jpg",
+    "bio": "I am a freelance Frontend Developer. Passionate about the web and digital technology, I chose to make it my profession over 10 years ago. My extensive experience has allowed me to work on various projects and expand my skillset. I constantly strive to learn and grow in order to be even more effective in my work.",
+    "age": 37,
+    "nationality": "French",
+    "languages": [
+        "French",
+        "English",
+        "Creole"
+    ],
+    "address": "Livry-Gargan, France",
+    "freelance": "Not available",
+    "socialAddress": {
+        "linkedin": "https://www.linkedin.com/in/gregory-lama/",
+        "github": "https://github.com/Gregson971",
+        "twitter": "https://twitter.com/gregson971"
+    },
+    "phoneNumbers": [
+        "+33 6 66 80 10 84"
+    ],
+    "emailAddress": [
+        "gregory.lama.pro@gmail.com"
+    ]
+}

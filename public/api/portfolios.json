@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "title": "Filtered table",
+        "subtitle": "Create a JavaScript module that displays data as an HTML table",
+        "coverimage": "/images/portfolios/portfolio-image-1.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://github.com/Gregson971/filtered-table",
+        "filters": [
+            "js"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Darick Tattoos",
+        "subtitle": "Darick Tattoos website",
+        "coverimage": "/images/portfolios/portfolio-image-2.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://darick-tattoos.com/",
+        "filters": [
+            "wordpress"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Horizons Neuf Cube",
+        "subtitle": "Horizons Neuf Cube website",
+        "coverimage": "/images/portfolios/portfolio-image-3.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://www.horizonsneufcube.fr/",
+        "filters": [
+            "wordpress"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "JustStreamIt",
+        "subtitle": "Openclassrooms project 6",
+        "coverimage": "/images/portfolios/portfolio-image-4.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://github.com/Gregson971/oc-da-python-p6",
+        "filters": [
+            "js"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Grégory Lama portfolio",
+        "subtitle": "Portfolio website made with Next.js",
+        "coverimage": "/images/portfolios/portfolio-image-5.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://github.com/Gregson971/portfolio",
+        "filters": [
+            "react"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "LitRevu",
+        "subtitle": "Openclassrooms project 9",
+        "coverimage": "/images/portfolios/portfolio-image-6.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://github.com/Gregson971/oc-da-python-p9",
+        "filters": [
+            "python",
+            "django"
+        ]
+    }
+]
