@@ -26,11 +26,11 @@
     {
         "id": 3,
         "title": "Horizons Neuf Cube",
-        "subtitle": "Horizons Neuf Cube website",
+        "subtitle": "Horizons Securite website",
         "coverimage": "/images/portfolios/portfolio-image-3.png",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://www.horizonsneufcube.fr/",
+        "url": "https://www.horizons-securite.com/",
         "filters": [
             "wordpress"
         ]
