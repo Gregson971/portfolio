@@ -2,7 +2,7 @@
     "name": "glama-portfolio",
     "description": "Grégory Lama - Portfolio",
     "author": "Grégory Lama",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "index.js",
     "private": true,
     "scripts": {
@@ -57,5 +57,5 @@
         "tailwindcss-nested-groups": "^1.2.4"
     },
     "license": "MIT",
-    "proxy": "http://localhost:3000/api"
+    "proxy": "https://gregory-lama.vercel.app/api"
 }
